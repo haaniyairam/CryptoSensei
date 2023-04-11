@@ -28,8 +28,7 @@ const generateAction = async (req, res) => {
  Title: ${req.body.userInput}
 
  Table of Contents: ${basePromptOutput.text}
-
- Blog Post:
+ 
  `;
 
 	// I call the OpenAI API a second time with Prompt #2

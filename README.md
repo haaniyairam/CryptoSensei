@@ -19,16 +19,16 @@ Fork the Repository: Click on the "Fork" button on the top right corner of this 
 
 Clone the Forked Repository: Open your command line or terminal and navigate to the directory where you want to clone the repository. Then, run the following command:
 
-"""git clone <your_forked_repository_url>"""
+'''git clone <your_forked_repository_url>'''
 Replace <your_forked_repository_url> with the actual URL of your forked CryptoSensei repository.
 
 Install Dependencies: Once the repository is cloned, navigate into the project directory and install the dependencies by running the following command:
-"""npm install"""
+'''npm install'''
 
 Configure Environment: If the project requires any specific configuration or environment variables, make sure to set them up accordingly. Refer to the project's documentation for any specific instructions on how to configure the environment.
 
 Run the Application: After completing the necessary setup steps, you can run the CryptoSensei application using the following command:
-"""npm start"""
+'''npm start'''
 This will start the application and you can access it through your web browser.
 
 **Contributing**

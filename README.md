@@ -1,3 +1,9 @@
+# CryptoSensei
+CryptoSensei is an educational platform providing comprehensive guidance on cryptocurrency trading. It empowers users to make informed decisions and optimize investment opportunities in the cryptocurrency market. The genesis of CryptoSensei lies in addressing the lack of awareness and fear surrounding decentralized finance adoption. It bridges this gap by offering a secure platform to learn about cryptocurrency trading and navigate the decentralized financial landscape.
+
+Designed for a diverse audience, CryptoSensei aims to enhance financial literacy and confidence in cryptocurrency trading. This contributes to financial inclusion and reduced wealth disparities. Furthermore, by facilitating decentralized finance adoption, CryptoSensei supports a more transparent, secure, and accessible financial landscape, aligning with broader goals of equity and inclusion.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 
